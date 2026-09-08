@@ -1,7 +1,7 @@
 # Face Detection using Haar Cascades with OpenCV and Matplotlib
-## ** developed by
-## ** NAME RANJITH JK 
-## ** REG NO 212224230221
+##  developed by
+##  NAME RANJITH JK 
+##  REG NO 212224230221
 
 ## Aim :
 
